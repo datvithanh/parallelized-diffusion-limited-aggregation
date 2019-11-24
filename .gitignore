@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.vscode
+BTL01
+BTL02
+mpi
+*.eps
+*.out
